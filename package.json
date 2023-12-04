@@ -3,7 +3,7 @@
   "packageManager": "yarn@3.6.1",
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node src/03/03_2.ts"
+    "dev": "ts-node src/04/04_2.ts"
   },
   "dependencies": {
     "@types/node": "^20.10.1",
